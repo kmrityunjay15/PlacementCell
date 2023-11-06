@@ -20,12 +20,6 @@
 - Sign In
   ![Sign-In](./images/login.PNG)
 
-- Student Page
-  ![Student-Page](./images/studentlist.PNG)
-
-- Interview Page
-  ![Interview-Page](./images/companylist.PNG)
-
 - Add student
   ![Add-Student](./images/AddStudent.PNG)
 
